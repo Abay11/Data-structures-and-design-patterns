@@ -8,4 +8,5 @@ SOURCES += \
 
 HEADERS += \
     creational_patterns/factory_method/LinuxUI/linuxui.h \
-    allheaders.h
+    allheaders.h \
+    creational_patterns/factory_method/BorschStore/borsch.h
