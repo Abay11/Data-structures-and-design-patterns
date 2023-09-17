@@ -102,5 +102,4 @@ Thumbs.db
 *.exe
 
 
-build-DesignPatters-Desktop_Qt_5_11_1_GCC_64bit-Debug/
-build_x64/
+build
