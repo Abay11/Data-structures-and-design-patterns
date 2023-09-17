@@ -1,0 +1,3 @@
+project(CreationalPatterns)
+
+include_directories(BorschStore LinuxUI)
