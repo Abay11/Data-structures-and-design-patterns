@@ -1,0 +1,1 @@
+add_executable(avl_tree main.cpp avl_tree.cpp avl_tree.hpp)
